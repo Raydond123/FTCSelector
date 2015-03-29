@@ -1,0 +1,8 @@
+server-items:
+ - 'prison:57:&7&lPrison:0'
+ - 'skyblock:2:&a&lSkyBlock:8'
+ - 'factions:276:&b&lFactions:4'
+message-items:
+ - '&aThese message are~&asplit in~&adifferent lines:386:&8&lInformation:5'
+empty-items:
+ - '101:&bComing Soon:6'
